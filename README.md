@@ -1,10 +1,6 @@
-📖 #Text-to-Image Generation Using Stable Diffusion Models#
+📖  **Text-to-Image Generation Using Stable Diffusion Models**
 
-
-
-
-
-📖 Overview :
+📖 **Overview :**
 
 ----------------
 
@@ -12,7 +8,7 @@
 
 
 
-📂 Features :
+📂 **Features :**
 
 ----------------
 
@@ -26,9 +22,11 @@
 
 
 
-🛠️ Methodology :
+
+🛠️ **Methodology :**
 
 ---------------------
+
 
 ◕  Model Selection & Setup
 
@@ -52,7 +50,7 @@ Environment Configuration
 
 
 
-🚀 Installation & Usage :
+🚀 **Installation & Usage :**
 
 ----------------------------
 
@@ -68,7 +66,7 @@ Input a text prompt and receive an AI-generated image.
 
 
 
-📌 Future Improvements :
+**📌 Future Improvements :**
 
 -----------------------------
 
@@ -80,4 +78,4 @@ Input a text prompt and receive an AI-generated image.
 
 
 
-🚀 Stay tuned for more updates!
+🚀**Stay tuned for more updates!**
